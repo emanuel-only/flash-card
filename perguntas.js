@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'matematica',
+    'Quanto é 8x8?',
+    'é igual a 64'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'matematica',
+    'Qual a raiz quadrada de 9?',
+    'é igual a 3'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'matematica',
+    'Quanto é 999x87?',
+    'é igual a 86.913'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'matematica',
+    'qual é o valor da soma de dois numeros pares cujo os multiplicadores são diferentes e o resultado 88?',
+    'pode ser 42+46'
 )
